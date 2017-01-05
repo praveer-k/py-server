@@ -1,5 +1,5 @@
 # py-server
-Node JS is offers the easiest way for creating client-servers models. Since it is event based system and works on interrupt calls rather than threads, there is no way you could reach a deadlock state. On top of this data gets recieved and sent as and when ready.
+Node JS offers the easiest way for creating client-servers models. Since it is event based system and works on interrupt calls rather than threads, there is no way you could reach a deadlock state. On top of this data gets recieved and sent as and when ready.
 
 Therefore, installing a heavy server application such as Django or Apache - to do small monotonous task on the desk or network seems really a bad idea.
 
